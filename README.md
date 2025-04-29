@@ -1,5 +1,5 @@
 # zeanHooks
-EquiHooks is a set of smart contract hooks designed to tackle Maximal Extractable Value (MEV), preventing various forms of exploitative transaction behaviors like front-running, back-running, sandwich attacks, Just-In-Time (JIT) trading, and more. By integrating these hooks into decentralized applications (dApps), users can experience a fairer, more secure transaction environment without the risk of malicious actors manipulating transaction order for profit.
+zeanHooks is a set of smart contract hooks designed to tackle Maximal Extractable Value (MEV), preventing various forms of exploitative transaction behaviors like front-running, back-running, sandwich attacks, Just-In-Time (JIT) trading, and more. By integrating these hooks into decentralized applications (dApps), users can experience a fairer, more secure transaction environment without the risk of malicious actors manipulating transaction order for profit.
 
 # Core Features:
 ### Front-Running Protection:
@@ -46,7 +46,7 @@ EquiHooks is a set of smart contract hooks designed to tackle Maximal Extractabl
 # Benefits of zeanHooks:
 - Fairer Execution for Users: By preventing malicious actors from exploiting transaction ordering, users can rely on a system that executes trades fairly.
 
-- Increased Security: EquiHooks ensures that trades are protected from manipulation, safeguarding assets and reducing the likelihood of losing funds to MEV strategies.
+- Increased Security: zeanHooks ensures that trades are protected from manipulation, safeguarding assets and reducing the likelihood of losing funds to MEV strategies.
 
 - Improved Market Integrity: By protecting users from MEV, EquiHooks helps maintain the integrity of the decentralized financial ecosystem.
 
