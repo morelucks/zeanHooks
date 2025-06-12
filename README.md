@@ -31,18 +31,6 @@ zeanHooks is a set of smart contract hooks designed to tackle Maximal Extractabl
 
 - Template Strategy: Private Transaction Channels for sensitive transactions, where the content is only visible to miners at the point of execution.
 
-###  Dynamic Gas Fee Adjustment:
-
-- Implements smart gas fee structures that prevent gas wars and ensure a fair transaction cost for everyone, preventing attackers from prioritizing their own trades by outbidding others.
-
-- Template Strategy: Gas Cap Mechanism that adjusts transaction fees dynamically, ensuring users don't get outbid by miners.
-
-  ### Fair Gas Utilization:
-
-- Ensures that all transactions are executed efficiently and with minimal waste, maximizing the network’s capacity and improving user experience.
-
-- Template Strategy: Optimized Gas Strategies that allow transactions to be processed based on fair pricing without overpaying for faster execution.
-
 # Benefits of zeanHooks:
 - Fairer Execution for Users: By preventing malicious actors from exploiting transaction ordering, users can rely on a system that executes trades fairly.
 
