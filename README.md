@@ -1,3 +1,4 @@
+
 # zeanHooks
 zeanHooks is a set of smart contract hooks designed to tackle Maximal Extractable Value (MEV), preventing various forms of exploitative transaction behaviors like front-running, back-running, sandwich attacks, Just-In-Time (JIT) trading, and more. By integrating these hooks into decentralized applications (dApps), users can experience a fairer, more secure transaction environment without the risk of malicious actors manipulating transaction order for profit.
 
@@ -41,3 +42,4 @@ zeanHooks is a set of smart contract hooks designed to tackle Maximal Extractabl
 - Optimized User Experience: Through strategies like delayed execution, commit-reveal, and gas fee fairness, users can interact with blockchain systems without worrying about backdoor strategies or market manipulation.
 
 By integrating zeanHooks, decentralized applications can provide a user-first experience, ensuring that every transaction is processed fairly and securely without being subject to MEV exploitation.
+
